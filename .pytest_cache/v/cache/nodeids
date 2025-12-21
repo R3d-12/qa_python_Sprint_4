@@ -1,0 +1,18 @@
+[
+  "tests.py::TestBooksCollector::test_add_book_in_favorites_adds_book",
+  "tests.py::TestBooksCollector::test_add_book_in_favorites_does_not_add_duplicate",
+  "tests.py::TestBooksCollector::test_add_new_book_adds_two_different_books",
+  "tests.py::TestBooksCollector::test_add_new_book_does_not_add_duplicate_book",
+  "tests.py::TestBooksCollector::test_add_new_book_with_empty_name_does_not_add_book",
+  "tests.py::TestBooksCollector::test_add_new_book_with_too_long_name_does_not_add_book",
+  "tests.py::TestBooksCollector::test_delete_book_from_favorites_removes_book",
+  "tests.py::TestBooksCollector::test_get_book_genre_returns_expected_value[1984-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430]",
+  "tests.py::TestBooksCollector::test_get_book_genre_returns_expected_value[\\u041e\\u043d\\u043e-\\u0423\\u0436\\u0430\\u0441\\u044b]",
+  "tests.py::TestBooksCollector::test_get_book_genre_returns_expected_value[\\u0428\\u0435\\u0440\\u043b\\u043e\\u043a \\u0425\\u043e\\u043b\\u043c\\u0441-\\u0414\\u0435\\u0442\\u0435\\u043a\\u0442\\u0438\\u0432\\u044b]",
+  "tests.py::TestBooksCollector::test_get_books_for_children_excludes_books_with_age_rating_genres",
+  "tests.py::TestBooksCollector::test_get_books_genre_returns_current_dictionary",
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre_returns_only_books_with_given_genre",
+  "tests.py::TestBooksCollector::test_get_list_of_favorites_books_returns_added_books[favorites0]",
+  "tests.py::TestBooksCollector::test_get_list_of_favorites_books_returns_added_books[favorites1]",
+  "tests.py::TestBooksCollector::test_set_book_genre_sets_genre_for_existing_book"
+]
